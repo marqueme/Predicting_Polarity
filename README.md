@@ -2,7 +2,7 @@
 
 The goal of this code is to automatically predict the polarity of reviews. The dataset contains pre-processed positive and negative reviews. 
 
-The code 
+The code yielded a score for every review by scanning for words deemed postive and negative by an external data source. The score then indicated the label of the review, as either a positive or negative one. 
 
 
 SETUP
